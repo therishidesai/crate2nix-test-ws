@@ -243,7 +243,7 @@ dependencies = [
 name = "testA"
 version = "0.1.0"
 dependencies = [
- "nalgebra 0.32.6",
+ "nalgebra 0.30.1",
  "serde",
  "test-lib",
 ]
