@@ -1,0 +1,10 @@
+[package]
+name = "testA"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nalgebra.workspace = true
+serde.workspace = true
+test-lib.workspace = true
+
